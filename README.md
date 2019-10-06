@@ -22,4 +22,27 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Biochemistry-Books/blob/master/iob(13).pdf" style="text-decoration:none;"> Biochemistry Laboratory: Modern Theory and Techniques </a></b></li>
 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Biochemistry-Books/blob/master/iob(14).pdf" style="text-decoration:none;">Microbial Biochemistry </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biochemistry-Books/blob/master/iob(15).rar" style="text-decoration:none;">MCAT Biochemistry Review </a></b></li>                                
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Biochemistry-Books/blob/master/iob(16).pdf" style="text-decoration:none;">Biochemistry, Molecular Biology, and Genetics</a></b></li>                                 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Biochemistry-Books/blob/master/iob(17).pdf" style="text-decoration:none;">Food Biochemistry and Food Processing</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Biochemistry-Books/blob/master/iob(18).pdf" style="text-decoration:none;">Instant Notes - Biochemistry </a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Biochemistry-Books/blob/master/iob(19).pdf" style="text-decoration:none;">Fundamentals of Biochemistry</a></b></li>                                 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Biochemistry-Books/blob/master/iob(20).pdf" style="text-decoration:none;"> Practical Biochemistry </a></b></li>
+
+
+
+
+
+
+
+
+
+
 </ul>
